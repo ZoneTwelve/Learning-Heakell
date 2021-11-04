@@ -1,8 +1,9 @@
 # Learning some staff
 S0metimes i will learning other Programming language、Tools、Other staff, so here ganna be the record about that.
-
+So, what if you want to see it, please Open the branch list.
 # Programming Language
 ## Haskell
+Branch: ![Haskell](https://github.com/ZoneTwelve/Learning-Staff-Here/tree/haskell)
 it's my h0mework (w4-myHomework.hs)
 1. Make a Tail function
 2. Also a Last function
