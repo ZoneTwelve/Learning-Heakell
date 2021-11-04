@@ -10,3 +10,8 @@ it's my h0mework (w4-myHomework.hs)
 3. And then Reverse function
 4. it's **Palindrome** ?
 5. final, Make it again without Reverse (is Palindrome)
+
+# Operating System
+## Linux / Linux Kernel
+Read it @ ![Linux kernel](https://github.com/ZoneTwelve/Learning-Staff-Here/tree/linux-kernel) branch
+
